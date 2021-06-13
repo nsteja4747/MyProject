@@ -1,0 +1,18 @@
+{
+  "name": "ShopMeFrontEnd",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A tutorial application for AngularJS",
+  "license": "Open",
+  "dependencies": {
+    "angular": "1.8.x",
+    "angular-animate": "1.8.x",
+    "angular-resource": "1.8.x",
+    "angular-route": "1.8.x",
+    "bootstrap": "3.3.x",
+    "jquery": "3.3.x"
+  },
+  "scripts": {
+    "start": "http-server ./app -a localhost -p 7000 -c-1"
+  }
+}
